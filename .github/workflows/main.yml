@@ -40,4 +40,4 @@ jobs:
           make
           echo make complete
           ./main/ComplexApplication
-          ./Test/ComplexTest
+          ./Test/TestComplex.cpp
